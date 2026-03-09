@@ -5,7 +5,7 @@ Fullstack developer with experience in JavaScript, React, Next.jx Node.js, and M
 
 ## 🧰 Tech Stack  
 **Programming Languages**
-[JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css/badge/Ukrainian-Native-yellow?style=flat-square) [TypeScript]
+[JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat-square) [TypeScript]
 
 ## 💻 Projects 
 - [Podorozhnyky](https://project-group-6-podorozhnyky-front.vercel.app/) [[Code](https://github.com/RomanAnokhin-work/project-group-6-podorozhnyky-front#)] - This project is designed for travelers and anyone who wants to share their adventures. The platform allows users to: Publish their own travel stories Browse stories from other users Save favorite stories Maintain a traveler profile Connect with new people and discover new destinations.
