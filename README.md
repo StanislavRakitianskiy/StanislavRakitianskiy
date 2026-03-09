@@ -14,5 +14,6 @@ Tech Stack:
 Tech Stack:
 **Frontend**: HTML5, CSS (Mobile-First) JavaScript.
 ## 🗣️ Languages
-![English](https://img.shields.io/badge/English-B2-blue?style=flat-square)
+![English](https://img.shields.io/badge/English-A1-blue?style=flat-square)
 ![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat-square)
+![Russian](https://img.shields.io/badge/Ukrainian-Native-red?style=flat-square)
