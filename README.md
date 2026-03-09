@@ -16,4 +16,4 @@ Tech Stack:
 ## 🗣️ Languages
 ![English](https://img.shields.io/badge/English-A1-blue?style=flat-square)
 ![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat-square)
-![Russian](https://img.shields.io/badge/Ukrainian-Native-red?style=flat-square)
+![Russian](https://img.shields.io/badge/Russian-Native-red?style=flat-square)
