@@ -11,15 +11,20 @@ Fullstack developer with experience in JavaScript, React, Next.jx Node.js, and M
 
 **Frontend (Frameworks & Libraries)**  
 
-![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Reactquery](https://img.shields.io/badge/reactquery-FF4154?style=for-the-badge&logo=reactquery&logoColor=black)
+![react](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![reactquery](https://img.shields.io/badge/reactquery-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
 
 **Backend & Databases**  
 
-![node.js](https://img.shields.io/badge/nodedotjs-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=black)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Reactquery](https://img.shields.io/badge/reactquery-FF4154?style=for-the-badge&logo=reactquery&logoColor=black)
+![node.js](https://img.shields.io/badge/node.js-5FA04E?style=for-the-badge&logo=node.js&logoColor=white)
+![mongodb](https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**Tools & Design**  
+
+![git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ## 💻 Projects 
 - [Podorozhnyky](https://project-group-6-podorozhnyky-front.vercel.app/) [[Code](https://github.com/RomanAnokhin-work/project-group-6-podorozhnyky-front#)] - This project is designed for travelers and anyone who wants to share their adventures. The platform allows users to: Publish their own travel stories Browse stories from other users Save favorite stories Maintain a traveler profile Connect with new people and discover new destinations.
