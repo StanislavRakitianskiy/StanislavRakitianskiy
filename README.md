@@ -4,7 +4,8 @@
 Fullstack developer with experience in JavaScript, React, Next.jx Node.js, and MongoDB. Experienced in creating single-page applications (SPA), integrating REST API, and implementing responsive and adaptive user interface components. Experience working in an Agile/Scrum environment, adhering to best practices in coding, version control (Git), and performance optimisation techniques. Strong problem-solving skills and a proactive approach to developing scalable web solutions.
 
 ## 🧰 Tech Stack  
-JavaScript | TypeScript | Node.js | React | Next.js 
+**Programming Languages**
+[JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css/badge/Ukrainian-Native-yellow?style=flat-square) [TypeScript]
 
 ## 💻 Projects 
 - [Podorozhnyky](https://project-group-6-podorozhnyky-front.vercel.app/) [[Code](https://github.com/RomanAnokhin-work/project-group-6-podorozhnyky-front#)] - This project is designed for travelers and anyone who wants to share their adventures. The platform allows users to: Publish their own travel stories Browse stories from other users Save favorite stories Maintain a traveler profile Connect with new people and discover new destinations.
