@@ -5,7 +5,7 @@ Fullstack developer with experience in JavaScript, React, Next.jx Node.js, and M
 
 ## 🧰 Tech Stack  
 **Programming Languages**
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="320" height="320"/>
 [JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat-square) [TypeScript]
 
 ## 💻 Projects 
