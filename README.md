@@ -19,4 +19,4 @@ Tech Stack:
 ![Russian](https://img.shields.io/badge/Russian-Native-red?style=flat-square)
 
 ## 📫 How to reach me
-[LinkedIn](www.linkedin.com/in/станіслав-ракітянський-b055a0379) [Telegram](t.me/StanislavRakitianskyi) [Email](mailto:raketaswig.gmail.com)
+[LinkedIn](www.linkedin.com/in/станіслав-ракітянський-b055a0379) [Telegram](https://t.me/StanislavRakitianskyi) [Email](mailto:raketaswig.gmail.com)
