@@ -17,3 +17,6 @@ Tech Stack:
 ![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat-square)
 ![English](https://img.shields.io/badge/English-A1-blue?style=flat-square)
 ![Russian](https://img.shields.io/badge/Russian-Native-red?style=flat-square)
+
+## 📫 How to reach me
+[LinkedIn](www.linkedin.com/in/станіслав-ракітянський-b055a0379) [Telegram](@StanislavRakitianskyi) [Email](mailto:raketaswig.gmail.com)
