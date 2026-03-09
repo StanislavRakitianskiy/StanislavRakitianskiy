@@ -12,7 +12,7 @@ Fullstack developer with experience in JavaScript, React, Next.jx Node.js, and M
 **Frontend (Frameworks & Libraries)**  
 
 ![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=black)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Reactquery](https://img.shields.io/badge/reactquery-FF4154?style=for-the-badge&logo=reactquery&logoColor=black)
 
 ## 💻 Projects 
