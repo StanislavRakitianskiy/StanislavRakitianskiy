@@ -1,4 +1,6 @@
-## 👋 Hi, I'm Stanislav Rakitianskiy
+## 👋 Hi, I'm Stanislav Rakitianskiy  
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
 
 ## Fullstack Developer | React | Node.js  
 Fullstack developer with experience in JavaScript, React, Next.jx Node.js, and MongoDB. Experienced in creating single-page applications (SPA), integrating REST API, and implementing responsive and adaptive user interface components. Experience working in an Agile/Scrum environment, adhering to best practices in coding, version control (Git), and performance optimisation techniques. Strong problem-solving skills and a proactive approach to developing scalable web solutions.
