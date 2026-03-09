@@ -9,6 +9,12 @@ Fullstack developer with experience in JavaScript, React, Next.jx Node.js, and M
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
+**Frontend (Frameworks & Libraries)**  
+
+![React](https://img.shields.io/badge/react-#61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/next.js-#000000?style=for-the-badge&logo=next.js&logoColor=black)
+![Reactquery](https://img.shields.io/badge/reactquery-#FF4154?style=for-the-badge&logo=reactquery&logoColor=black)
+
 ## 💻 Projects 
 - [Podorozhnyky](https://project-group-6-podorozhnyky-front.vercel.app/) [[Code](https://github.com/RomanAnokhin-work/project-group-6-podorozhnyky-front#)] - This project is designed for travelers and anyone who wants to share their adventures. The platform allows users to: Publish their own travel stories Browse stories from other users Save favorite stories Maintain a traveler profile Connect with new people and discover new destinations.
 Tech Stack:
